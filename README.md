@@ -1,3 +1,4 @@
 # JavaScript-Instagram-API
 Showing your recent Instagram photos using Lightbox.
-![InstagramJS](InstagramJS.png)
+
+![alt text](https://github.com/Vitali-Vitali/JavaScript-Instagram-API/blob/master/InstagramJS.PNG?raw=true)
