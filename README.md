@@ -9,3 +9,6 @@ Showing your recent Instagram photos using Lightbox.
 3. In Valid Redirect URIs field specify https://rudrastyh.com/tools/access-token and click “Register”. 
 4. Then click “Manage” button to obtain both Client ID and Client Secret of your just registered app.
 5. Use your Client ID and Client Secret to generate an access token with this tool https://rudrastyh.com/tools/access-token.
+
+## Live Demo
+[Live Demo Link](https://codepen.io/vitali-vitali/pen/dybmNRB)
