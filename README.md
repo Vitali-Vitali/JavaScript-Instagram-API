@@ -11,4 +11,4 @@ Showing your recent Instagram photos using Lightbox.
 5. Use your Client ID and Client Secret to generate an access token with this tool https://rudrastyh.com/tools/access-token.
 
 ## Live Demo
-[Live Demo Link](https://codepen.io/vitali-vitali/pen/dybmNRB)
+[Live Demo Link](https://codepen.io/vitali-vitali/full/dybmNRB)
